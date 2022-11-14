@@ -13,9 +13,13 @@ This repository will also help setup the bot to run it on your machine.
 
 Prerequisites: 
 ◦ Linux Environment
+
 ◦ Visual Studio Code
+
 ◦ Webex Credentials
+
 ◦ Ngrok Web Hook
+
 ◦ Bot Credentials
 
 Step 1: Download all the needed files into a directory that can be accessed by VS Code
