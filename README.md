@@ -12,6 +12,7 @@ Build a Network Management Chatbot that has the following:
 This repository will also help setup the bot to run it on your machine. 
 
 Prerequisites: 
+
 ◦ Linux Environment
 
 ◦ Visual Studio Code
