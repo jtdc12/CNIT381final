@@ -31,7 +31,9 @@ Step 3: Make a bot, write down all informaion showed in screenshot for use later
 ![image](https://user-images.githubusercontent.com/8886770/201720281-156a2728-1e4e-4d45-8749-473623d5f824.png)
 
 
-Step 3: To make your 381Bot.py file work, you will need to fill out the bot_email, teams_token, and bot_url fields. These fields will be filled in with your Email, Webex Access Token, and Webhook address. Next, in the useless_skills.py, put the Teams Access Token in the teams_token field. 
+Step 4:A Web Hook using Ngrok: For the bot to be able to send and receive messages through Webex Teams. the command to get your webhook is ngrok http 5000 in terminal 
+
+Step 5: To make your 381Bot.py file work, you will need to fill out the bot_email, teams_token, and bot_url fields. These fields will be filled in with your Email, Webex Access Token, and Webhook address. Next, in the useless_skills.py, put the Teams Access Token in the teams_token field. 
 
 Fields to Fill in 381Bot.py
 
@@ -39,8 +41,8 @@ Fields to Fill in 381Bot.py
 Fields to Fill in useless_skills.py
 
 
-Step 4: Update the routers.py file with your routers IP address.
+Step 6: Update the routers.py file with your routers IP address.
 
-Step 5: In VS Code, open a terminal for your directory you created and run the command python3 381Bot.py, this should run the bot in the terminal. 
+Step 7: In VS Code, open a terminal for your directory you created and run the command python3 381Bot.py, this should run the bot in the terminal. 
 
-Step 6: Open Webex and begin chatting!
+Step 8: Open Webex and begin chatting!
