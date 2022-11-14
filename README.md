@@ -27,6 +27,10 @@ Step 1: Download all the needed files into a directory that can be accessed by V
 
 Step 2: Make an account on https://developer.webex.com/
 
+Step 3: Make a bot, write down all informaion showed in screenshot for use later
+![image](https://user-images.githubusercontent.com/8886770/201720281-156a2728-1e4e-4d45-8749-473623d5f824.png)
+
+
 Step 3: To make your 381Bot.py file work, you will need to fill out the bot_email, teams_token, and bot_url fields. These fields will be filled in with your Email, Webex Access Token, and Webhook address. Next, in the useless_skills.py, put the Teams Access Token in the teams_token field. 
 
 Fields to Fill in 381Bot.py
