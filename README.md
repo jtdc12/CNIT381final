@@ -36,6 +36,7 @@ Step 4:A Web Hook using Ngrok: For the bot to be able to send and receive messag
 Step 5: To make your chatbot.py file work, you will need to fill out the bot_email, teams_token, and bot_url fields. These fields will be filled in with your Email, Webex Access Token, and Webhook address. Next, in the useless_skills.py, put the Teams Access Token in the teams_token field. 
 
 Fields to Fill in chatbot.py
+![image](https://user-images.githubusercontent.com/110984023/204409795-42f51726-6e07-4342-8708-230738a25daa.png)
 
 
 Fields to Fill in useless_skills.py
