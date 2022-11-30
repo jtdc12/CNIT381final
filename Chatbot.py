@@ -30,8 +30,8 @@ headers = {'Content-Type': 'application/yang-data+json',
            'Accept': 'application/yang-data+json'}
 
 # Bot Details
-bot_email = '' #Fill in your Teams Bot email#
-teams_token = '' #Fill in your Teams Bot Token#
+bot_email = 'amberghibot@webex.bot' #Fill in your Teams Bot email#
+teams_token = 'MWJjY2Q4ZWEtNDdiNC00ZjJiLTkwMzAtZmFmMzlkMjk1Zjk1MjkxYzNhYmUtZmE5_P0A1_98cbd302-3aa0-4db3-9364-0a369fd73ffd' #Fill in your Teams Bot Token#
 bot_url = "" #Fill in the ngrok forwarding address#
 bot_app_name = 'Auto Chat Bot'
 
