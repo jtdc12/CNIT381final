@@ -49,4 +49,8 @@ Step 6: Update the routers.py file with your routers IP address.
 
 Step 7: In VS Code, open a terminal for your directory you created and run the command python3 chatbot.py, this should run the bot in the terminal. 
 
+![BOT SET UP](https://user-images.githubusercontent.com/8886770/204850619-1e356181-ad22-4171-a7ca-c4c600fb5e07.PNG)
+
 Step 8: Open Webex and begin chatting!
+
+![bot working](https://user-images.githubusercontent.com/8886770/204850521-2e7f99e4-7672-485c-945f-8b1f711c68a7.PNG)
